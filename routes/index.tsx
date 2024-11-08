@@ -36,7 +36,7 @@ export default function Main() {
 
   return (
     <>
-      <Portfolio getNames={getNames} test={test} />
+      <Portfolio />
     </>
   );
 }
